@@ -1,0 +1,47 @@
+.h1{
+    margin-left: 100px;
+    font-size:40px;
+}
+
+.body{
+    background-color: #F5F5DC;
+    font-family: "Oswald", sans-serif;
+}
+
+.mac, .egg, .coffee, .titles{
+    margin-left: 200px;
+}
+
+.mac, .egg, .coffee{
+    font-size: 20px;
+}
+
+.img{
+    margin-top: 18px;
+    margin-left: 250px;
+}
+
+.mac{
+
+}
+
+.egg{
+
+}
+
+.coffee{
+
+}
+
+.titles{
+    color: black;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+/*different html files*/
+
+.alt2nd{
+    margin-left: 200px;
+}
+
